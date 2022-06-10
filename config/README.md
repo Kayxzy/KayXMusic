@@ -85,7 +85,7 @@ Config vars are basically the variables which configure or modify bot to functio
 3. `GIT_TOKEN` : Your GIT TOKEN if your upstream repo is private
 4. `GITHUB_REPO` : Your Github Repo url, that will be shown on /start command
 
-
+https://dashboard.heroku.com/new?template=https://github.com/Kayxzy/KayXMusic
 
 ## Images/Thumbnail Vars
 
